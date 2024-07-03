@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Bateria",
+    "price": 1200,
+    "urlImage": "https://i.pinimg.com/564x/0a/86/1a/0a861ad27ba4009c0ec7930b1d33fc9f.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Gibson sg 1974",
+    "price": 2000,
+    "urlImage": "https://i.pinimg.com/736x/4d/78/19/4d7819e4a3e3ba3855f599debbd8972b.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Rickenbacker Bass",
+    "price": 4000,
+    "urlImage": "https://i.pinimg.com/564x/b2/75/b4/b275b4978469f1c504226e4c5f10550d.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Amp Marshall",
+    "price": 7200,
+    "urlImage": "https://i.pinimg.com/564x/0f/00/e7/0f00e7c8873aed1b0a8fe34178919a86.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Saxofon",
+    "price": 4000,
+    "urlImage": "https://i.pinimg.com/564x/53/93/9d/53939d9dbb85c9f8c235e4ee70808e37.jpg"
+  },
+  {
+    "id": "5",
+    "name": "trompeta",
+    "price": 4000,
+    "urlImage": "https://i.pinimg.com/564x/21/b3/f1/21b3f184a453bb78585886f6f4353728.jpg"
+  }
+]
