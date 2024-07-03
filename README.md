@@ -2,7 +2,7 @@
 # Backend con Node.js y Express
 
 
-Este proyecto es un backend desarrollado en Node.js utilizando Express y TypeScript, siguiendo una arquitectura hexagonal para una mejor organización del código.
+Este proyecto es un backend desarrollado en Node.js utilizando Express y TypeScrip
 
 # Configuración
 Para comenzar con el proyecto, asegúrate de tener Node.js instalado. Luego, sigue estos pasos:
